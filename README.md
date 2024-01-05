@@ -1,2 +1,3 @@
 # Bimbingan-Karir-Data-Science
-Pakai file "Hungarian.ipynb"
+Tugas 1-2 : "Hungarian.ipynb"
+Tugas 3 : "streamlit_hungarian_rf_smote.py"
